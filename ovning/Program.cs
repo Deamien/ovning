@@ -8,6 +8,12 @@ int addition(int num1, int num2)
     return num1 + num2;
 }
 
+double multiplication(double num1, double num2)
+{
+    return num1 * num2;
+}
+
 Console.WriteLine("DET BLIR " + addition(6, 1));
+Console.WriteLine("DET BLIR " + multiplication(7, 4));
 
 Console.WriteLine("jag hatar git");
