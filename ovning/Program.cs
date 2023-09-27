@@ -8,6 +8,6 @@ int addition(int num1, int num2)
     return num1 + num2;
 }
 
-Console.WriteLine(addition(6, 1));
+Console.WriteLine("DET BLIR " + addition(6, 1));
 
 Console.WriteLine("jag hatar git");
